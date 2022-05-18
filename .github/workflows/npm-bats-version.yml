@@ -1,5 +1,5 @@
 name: check-bats-version
-on: [issue]
+on: [issues]
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
